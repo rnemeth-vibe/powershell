@@ -1,0 +1,1 @@
+Remove-Computer -PassThru -Force -Restart
